@@ -9,6 +9,8 @@ has_children: false
 
 **ClinicaMind Conversational AI for Healthcare** is a project of the [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="wg"} work group in [The AI Alliance](https://thealliance.ai){:target="ai-alliance"}. 
 
+This project, lead by [ClinicaMind](https://clinicamind.com){:target="cm"}, is a reference application for conversational AI applications for healthcare. 
+
 Please join us! See our [contributing]({{site.baseurl}}/contributing) page for details.
 
 The AI Alliance is a global collaboration of startups, enterprises, academic, and other research institutions interested in advancing the state of the art, the availability, and the safety of AI technology and uses. The AI Alliance's core projects seek to address substantial cross-community challenges and are an opportunity for contributors to collaborate, build, and make an impact on the future of AI. Core Projects are managed directly by the AI Alliance and governed as described in our [community GitHub repository](https://github.com/The-AI-Alliance/community){:target="community"}. You can find a list of all AI Alliance projects on [our website](https://thealliance.ai/our-work){:target="our-work"}.

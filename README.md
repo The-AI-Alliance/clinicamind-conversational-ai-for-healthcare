@@ -2,11 +2,11 @@
 
 [Published Documentation](https://the-ai-alliance.github.io/clinicamind-conversational-ai-for-healthcare/)
 
-This repo contains the code and documentation for the AI Alliance: ClinicaMind Conversational AI for Healthcare.
+This repo contains the code and documentation for the AI Alliance **ClinicaMind Conversational AI for Healthcare** project. The source code is forthcoming; the website is currently a placeholder.
 
 See the [repo README](https://github.com/The-AI-Alliance/clinicamind-conversational-ai-for-healthcare/) for additional details about this project.
 
-TODO - Describe this project
+> [ClinicaMind](https://clinicamind.com) and other AI Alliance collaborators are developing this reference project that explores tools for creating effective conversational AI applications for healthcare.
 
 The rest of this README provides information for contributors, developers, and users of this project repo.
 
