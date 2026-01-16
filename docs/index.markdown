@@ -7,9 +7,6 @@ has_children: false
 
 # ClinicaMind Conversational AI for Healthcare
 
-| **Authors**     | [Applications and Tools](https://thealliance.ai/focus-areas/applications-and-tools){:target="wg"} (See the [Contributors]({{site.baseurl}}/contributing/#contributors)) |
-| **Last Update** | {{site.last_version}}, {{site.last_modified_timestamp}} |
-
 Welcome to the **The AI Alliance**: **ClinicaMind Conversational AI for Healthcare**. 
 
 {: .tip }
